@@ -350,6 +350,11 @@ h2 {
     letter-spacing: .12em
 }
 
+.project-management-label {
+    margin-top: 38px
+}
+
+.project-management-skills,
 .soft-skills {
     margin-top: 8px
 }
